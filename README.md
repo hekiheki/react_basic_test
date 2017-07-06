@@ -6,6 +6,6 @@
 > npm install -g create-react-app
 
 创建app
-creat-react-app app-name
-cd app-name/
-npm start
+>creat-react-app app-name
+>cd app-name/
+>npm start
