@@ -7,5 +7,7 @@
 
 创建app
 >creat-react-app app-name
+
 >cd app-name/
+
 >npm start
