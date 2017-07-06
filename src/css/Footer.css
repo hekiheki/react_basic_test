@@ -1,0 +1,10 @@
+.Footer{
+	width: 960px;
+	margin: 0 auto;
+	background: #0073c8;
+	color: #fff;
+	text-align: right;
+	padding: 20px;
+	margin-top: 20px;
+	font-size: 20px;
+}

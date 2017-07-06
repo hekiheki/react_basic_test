@@ -1,0 +1,15 @@
+{
+  "short_name": "委员直通车",
+  "name": "中国人民政治协商会议杭州市委员会 委员直通车",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

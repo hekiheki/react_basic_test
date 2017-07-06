@@ -1,0 +1,45 @@
+.ListBox{
+	width: 970px;
+	margin: 0 auto;
+	background: #fff;
+	padding: 20px 15px;
+	margin-top: 20px;
+}
+.ListTitle{
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border-bottom: 2px solid #e6e6e6;
+	height: 40px;
+}
+.TitleName{
+	color: #0073c8;
+	font-size: 20px;
+	font-weight: bold;
+	display: inline-block;
+	height: 40px;
+	border-bottom: 2px solid #0073c8;
+}
+.more{
+	color: #cccccc;
+	cursor: pointer;
+}
+.ListItem{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	border-bottom: 1px dashed #e6e6e6;
+	cursor: pointer;
+}
+.ListItem>p{
+	color: #333333;
+}
+.ListItem>p>span{
+	color: #cccccc;
+	margin-right: 20px;
+}
+.ListItem>time{
+	color: #a8a8a8;
+	font-size: 14px;
+}

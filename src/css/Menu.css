@@ -1,0 +1,22 @@
+.Menu{
+	width: 1000px;
+	background: #fff;
+	padding: 20px 0;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-around;
+	margin-top: 20px;
+}
+.Menu-icon{
+	cursor: pointer;
+	text-align: center;
+}
+.Menu-icon>span{
+	color: #888888;
+}
+.iconFont{
+	display: block;
+	width: 64px;
+	height: 64px;
+	margin-bottom: 5px;
+}
